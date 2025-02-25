@@ -3,5 +3,4 @@ Acest proiect implementeaza un sistem de gestionare a stocului si comenzilor pen
 De asemenea, clasa Comanda gestioneaza achizitiile, atribuind fiecarei comenzi un ID unic si ajustand garantia in functie de tipul clientului (Fizica – 2 ani, Juridica – 1 an). Stocul este limitat la 10 produse distincte, iar comenzile sunt validate astfel incat sa nu permita cumpararea peste stocul disponibil.
 
 Echipa: 
-Drutu Razvan-Alexandru B2
-Bulai Vali-Danut B2
+Drutu Razvan-Alexandru, Bulai Vali-Danut -> grupa B2
